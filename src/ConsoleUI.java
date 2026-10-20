@@ -4,10 +4,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- * Stage 1 presentation only: title screen, menus, input and boxed reports.
- * No restaurant business rules belong here. Works on plain Windows terminals.
- */
+
 public class ConsoleUI {
     private static final int WIDTH = 90;
     private static final int CONTENT_WIDTH = WIDTH - 4;
